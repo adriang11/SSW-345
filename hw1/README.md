@@ -1,7 +1,7 @@
 # HW1
 ## Learning GIT Screenshots
 
-![intro1](intro1.PNG)
+![1](intro1.PNG)
 ![2](intro2.PNG)
 ![3](intro3.PNG)
 ![4](intro4.PNG)
